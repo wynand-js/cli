@@ -1,0 +1,20 @@
+{
+  "name": "wynand-cli",
+  "version": "0.0.1-dev",
+  "description": "CLI for generating wynand json files from command-line",
+  "main": "cmd.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github-t1eb4n:wynand-js/cli.git"
+  },
+  "keywords": [
+    "wynand",
+    "json",
+    "cli"
+  ],
+  "author": "Christian South <t1eb4n@gmail.com>",
+  "license": "MIT"
+}
